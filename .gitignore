@@ -1,0 +1,13 @@
+# dependencies
+node_modules
+
+# debug
+yarn-debug.log*
+yarn-error.log*
+
+# output
+dist
+
+# environment variables
+.env
+!.env.example
